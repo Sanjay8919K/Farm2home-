@@ -1,0 +1,11 @@
+{
+  "name": "Remix: Farm2home",
+  "description": "An AI-powered Rural Economy Ecosystem bridging farmers, artisans, and self-help groups directly with consumers, retailers, and exporters.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
